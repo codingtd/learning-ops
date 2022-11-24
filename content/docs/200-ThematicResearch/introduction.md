@@ -1,7 +1,7 @@
 ---
 title: "DevOps介绍"
 linkTitle: "DevOps介绍"
-weight: 210
+weight: 201
 date: 2022-11-24
 description: >
   DevOps是什么？DevOps可以用来做什么？
