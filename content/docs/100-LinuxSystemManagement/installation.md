@@ -1,8 +1,8 @@
 ---
 title: "安装Hugo"
 linkTitle: "安装Hugo"
-weight: 210
-date: 2021-01-18
+weight: 110
+date: 2022-11-24
 description: >
   Hugo在多个操作系统下的安装
 ---
@@ -144,5 +144,4 @@ cd /var/lib/jenkins/workspace/skyao.io/
 # 需要明确指定baseUrl
 hugo --baseUrl="https://skyao.io/" -d "/var/www/skyao/"
 ```
-
 
