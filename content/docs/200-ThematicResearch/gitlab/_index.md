@@ -6,3 +6,6 @@ description: >
   // TODO
 ---
 
+{{% pageinfo %}}
+代码管理工具。
+{{% /pageinfo %}}
