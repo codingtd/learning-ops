@@ -1,5 +1,5 @@
 ---
-title: "Learning devops"
+title: "Learning-Ops"
 linkTitle: "学习笔记"
 weight: 1
 menu:
